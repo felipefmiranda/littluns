@@ -1,0 +1,10 @@
+[project]
+name = "littluns"
+version = "0.1.0"
+description = "Just like the Littluns, I'm still figuring out"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3.1",
+    "pytesseract>=0.3.13",
+]
